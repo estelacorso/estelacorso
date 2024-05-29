@@ -1,7 +1,6 @@
 ## Olá, eu sou a Estela! 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estelacorso&show_icons=true&theme=dracula)
 - 🔭 Atualmente atuo como analista de suporte, mas me preparando para uma transição para a área de desenvolvimento de sistemas
-- 🌱 Estou estudando programação em Java voltada a Backend
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estelacorso&layout=compact)](https://github.com/estelacorso/github-readme-stats)
 
